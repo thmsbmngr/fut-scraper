@@ -31,6 +31,9 @@ file = open("players.csv", "a", encoding="utf-8")
 file.write(csv_header)
 
 for page_num in range(1, pages + 1):
+    if page_num % 20 == 0:
+        time.sleep(10)
+    
     page_url = URL + str(page_num)
     page = requests.get(page_url, headers=headers)
     soup = BeautifulSoup(page.content, 'html.parser')
@@ -42,10 +45,8 @@ for page_num in range(1, pages + 1):
 
     print("Scraping " + str(page_num) + " page")
     for row in range(0, len(table)):
-        if row % 20 == 0:
-            time.sleep(1)
         player_data = []
-        
+
         data = table[row].findChildren(name="td")
 
         # Getting name and id of the player-card the a element from futbin
