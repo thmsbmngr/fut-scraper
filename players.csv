@@ -1,1 +1,1021 @@
 id;name;rating;pace;shooting;passing;dribbling;defending;physicality
+44079;Lionel Messi;99;96;98;99;99;50
+44119;Cristiano Ronaldo;99;97;99;92;98;45
+44081;Kylian Mbappé;98;99;96;93;98;55
+2;Diego Maradona;97;92;93;92;97;40
+44082;Alisson;97;97;92;95;97;70
+3;Ronaldo;96;97;95;81;95;45
+43860;Lionel Messi;96;91;94;94;98;42
+44084;Matthijs de Ligt;96;85;75;86;88;96
+5;Diego Maradona;95;88;91;90;95;42
+43943;Lionel Messi;95;88;93;93;97;40
+44143;Eden Hazard;95;94;92;92;97;39
+7;Ronaldo;94;93;93;80;93;46
+9;Ronaldinho;94;92;90;91;95;37
+13088;Johan Cruyff;94;91;92;91;94;42
+13230;Mané Garrincha;94;90;87;94;96;41
+44085;Virgil van Dijk;99;88;80;92;90;99
+1;Pelé;98;95;96;93;96;60
+44089;Kevin De Bruyne;98;88;96;99;96;82
+44080;Sadio Mané;97;99;95;92;97;57
+44087;N'Golo Kanté;97;91;88;95;95;97
+13197;Zinedine Zidane;96;85;92;96;95;75
+43898;Lionel Messi;96;90;94;94;98;41
+4;Pelé;95;96;93;90;95;56
+43721;Lionel Messi;95;89;93;93;97;40
+44086;Trent Alexander-Arnold;95;92;85;97;92;92
+6;Paolo Maldini;94;86;56;75;69;96
+8;Lev Yashin;94;95;89;75;96;65
+341;Lionel Messi;94;87;92;92;96;39
+13200;Zinedine Zidane;94;82;90;93;92;72
+42990;Lionel Messi;94;87;92;92;96;39
+43779;Cristiano Ronaldo;94;91;94;84;90;36
+43976;Kevin De Bruyne;94;81;91;95;90;65
+44088;Frenkie de Jong;94;88;87;93;95;88
+11;Lothar Matthäus;93;89;89;90;82;90
+13;Ruud Gullit;93;86;91;91;89;82
+15;Thierry Henry;93;94;91;83;90;53
+13089;Roberto Baggio;93;86;84;92;92;40
+13237;Carlos Alberto Torres;93;90;66;81;86;90
+43859;Kevin De Bruyne;93;79;90;94;89;63
+44023;Neymar Jr;93;92;87;89;96;33
+16;Carles Puyol Saforcada;92;70;45;68;58;94
+18;Alessandro Del Piero;92;83;92;89;92;43
+20;Bobby Moore;92;68;64;83;78;93
+22;Fabio Cannavaro;92;80;43;63;68;95
+24;Paolo Maldini;92;82;56;74;68;95
+43910;Cristiano Ronaldo;94;91;94;83;90;36
+44083;Andrew Robertson;94;94;75;94;91;92
+10;Marco van Basten;93;83;94;76;89;39
+12;George Best;93;93;91;84;94;58
+14;Franco Baresi;93;70;49;76;72;95
+143;Cristiano Ronaldo;93;90;93;82;89;35
+13090;Eusébio;93;94;94;86;93;45
+42991;Cristiano Ronaldo;93;90;93;82;89;35
+43904;Neymar Jr;93;92;86;88;96;33
+44066;Harry Kane;93;80;95;86;87;51
+17;Luís Figo;92;92;88;89;92;41
+19;Gary Lineker;92;88;91;73;86;36
+21;Emilio Butragueño;92;94;90;80;92;41
+23;Ruud van Nistelrooy;92;86;91;74;85;37
+25;Ryan Giggs;92;90;80;90;91;44
+26;Javier Zanetti;92;86;63;88;85;90
+28;Alessandro Nesta;92;72;42;65;67;94
+30;Hristo Stoichkov;92;92;93;86;92;50
+13091;Rivaldo;92;87;91;88;92;44
+13214;Kenny Dalglish;92;90;92;77;90;41
+13232;Garrincha;92;90;86;92;94;41
+42808;Eden Hazard;92;92;85;88;95;36
+42992;Neymar Jr;92;91;85;87;95;32
+43857;Harry Kane;92;77;94;84;86;50
+43902;Eden Hazard;92;92;84;87;95;36
+43937;Jan Oblak;92;88;93;79;90;51
+43992;Luka Modric;92;77;80;92;92;74
+31;Michael Laudrup;91;85;79;90;92;38
+33;Laurent Blanc;91;79;69;70;78;92
+35;Fernando Hierro Ruiz;91;73;68;76;70;93
+27;Dennis Bergkamp;92;84;91;86;90;37
+29;Peter Schmeichel;92;92;87;88;94;52
+846;Neymar Jr;92;91;85;87;95;32
+13092;Raúl González Blanco;92;88;92;82;90;47
+13226;Hugo Sánchez;92;92;93;81;90;44
+13240;Andrea Pirlo;92;73;80;95;91;71
+42842;Kevin De Bruyne;92;77;88;93;88;62
+43781;Eden Hazard;92;92;85;88;95;36
+43864;Robert Lewandowski;92;81;93;78;89;44
+43928;Kevin De Bruyne;92;77;87;93;88;62
+43985;Mohamed Salah;92;95;88;86;91;47
+44090;Manuel Neuer;92;92;91;95;91;63
+32;Paul Scholes;91;72;87;91;80;64
+34;Gheorghe Hagi;91;83;89;90;90;43
+36;Robert Pirès;91;88;82;88;89;40
+37;Lothar Matthäus;91;87;84;86;77;89
+39;Michael Owen;91;90;89;70;88;34
+41;Marcel Desailly;91;83;52;66;67;90
+43;Patrick Kluivert;91;86;88;80;83;41
+45;Patrick Vieira;91;83;80;82;85;90
+47;Lev Yashin;91;93;85;73;93;62
+49;Pelé;91;94;89;88;93;53
+51;Diego Maradona;91;93;87;87;94;38
+291;Kevin De Bruyne;91;76;86;92;87;61
+895;Jan Oblak;91;87;92;78;89;50
+13094;Michael Ballack;91;81;90;88;83;81
+13096;Sócrates;91;84;90;91;90;45
+13098;Miroslav Klose;91;88;88;76;82;41
+13100;Johan Cruyff;91;91;89;88;93;41
+13201;Zinedine Zidane;91;84;86;91;90;73
+38;Ronaldinho;91;91;86;88;92;36
+40;Alan Shearer;91;81;93;77;78;52
+42;Andriy Shevchenko;91;88;92;72;87;34
+44;Edwin van der Sar;91;85;90;81;89;40
+46;Steven Gerrard;91;77;90;90;85;77
+48;Pavel Nedvěd;91;85;88;90;90;60
+50;Marco van Basten;91;79;92;75;87;40
+52;Roberto Carlos;91;92;83;84;81;86
+385;Eden Hazard;91;91;83;86;94;35
+13093;Clarence Seedorf;91;80;87;90;88;68
+13095;David Trezeguet;91;81;92;70;82;45
+13097;Franco Baresi;91;69;48;74;70;94
+13099;Eusébio;91;93;93;88;90;42
+13101;Roberto Baggio;91;88;82;89;90;38
+13205;Ronald Koeman;91;75;88;89;80;90
+13223;Ian Rush;91;86;92;72;86;45
+13245;Kaká;91;91;86;88;92;44
+42993;Kevin De Bruyne;91;76;86;92;87;61
+42995;Eden Hazard;91;91;83;86;94;35
+43722;Robert Lewandowski;91;79;91;77;88;43
+43804;Luka Modric;91;75;78;91;91;73
+43852;Kylian Mbappé;91;98;88;82;92;41
+43861;Marc-André ter Stegen;91;90;86;89;92;44
+43903;Luka Modric;91;75;77;90;91;73
+43925;Mohamed Salah;91;94;87;82;90;46
+44078;Andrés Iniesta Luján;91;79;81;94;96;70
+44116;Bernardo Silva;91;90;86;89;96;54
+53;Peter Schmeichel;90;89;84;85;93;50
+55;Alessandro Del Piero;90;85;90;85;92;42
+57;Henrik Larsson;90;90;89;76;85;48
+13234;Didier Drogba;91;90;92;77;82;47
+42979;Sergio Agüero;91;88;92;79;90;35
+42994;Jan Oblak;91;87;92;78;89;50
+43695;N'Golo Kanté;91;81;68;81;84;89
+43783;Harry Kane;91;73;93;83;84;49
+43833;Virgil van Dijk;91;78;61;72;73;92
+43856;Mohamed Salah;91;94;87;84;90;46
+43899;Sadio Mané;91;97;88;83;91;47
+43922;Virgil van Dijk;91;78;61;71;73;91
+43946;Marc-André ter Stegen;91;89;86;89;91;44
+44091;Luis Suárez;91;79;92;83;87;54
+44161;Sergio Agüero;91;84;92;81;91;35
+54;Filippo Inzaghi;90;79;91;69;83;36
+56;Jari Litmanen;90;82;89;84;84;36
+58;Jay-Jay Okocha;90;87;83;84;94;40
+59;Alessandro Nesta;90;71;41;62;66;91
+61;Dennis Bergkamp;90;85;89;83;88;35
+63;Hernán Crespo;90;89;90;72;89;38
+65;Thierry Henry;90;90;88;85;87;51
+67;Rio Ferdinand;90;83;49;67;65;91
+69;Jens Lehmann;90;87;91;86;86;59
+71;Rui Manuel César Costa;90;86;81;88;88;44
+73;Frank Lampard;90;74;90;88;84;73
+75;Ruud Gullit;90;88;88;88;87;80
+347;Marc-André ter Stegen;90;88;85;88;90;43
+469;Virgil van Dijk;90;77;60;70;72;90
+13102;Claude Makélélé;90;80;50;79;80;88
+13104;Luís Figo;90;90;86;88;91;40
+13106;Ruud van Nistelrooy;90;82;88;72;82;38
+13108;Emilio Butragueño;90;92;88;81;91;42
+60;Ronaldo;90;94;90;77;91;42
+62;Frank Rijkaard;90;77;76;83;80;90
+64;Marc Overmars;90;95;82;81;89;47
+66;Anderson Luís de Souza;90;83;79;91;90;51
+68;Emmanuel Petit;90;77;79;82;78;87
+70;Luis Hernández;90;92;88;74;89;48
+72;Roy Keane;90;72;71;85;81;87
+74;Gianfranco Zola;90;86;91;88;91;43
+76;Carles Puyol Saforcada;90;72;45;66;58;93
+461;Mohamed Salah;90;93;86;81;89;45
+592;Luka Modric;90;74;76;89;90;72
+13103;George Best;90;90;90;83;93;57
+13105;Christian Vieri;90;83;91;74;83;40
+13107;Hristo Stoichkov;90;90;90;87;90;48
+13109;Rivaldo;90;85;90;87;90;43
+13110;Juan Sebastián Verón;90;76;85;90;85;77
+13208;Michael Essien;90;85;76;81;82;90
+13233;Garrincha;90;90;83;88;93;41
+13242;Andrea Pirlo;90;75;79;93;90;68
+42809;Antoine Griezmann;90;82;88;86;90;58
+42969;Harry Kane;90;71;92;82;82;48
+42997;Marc-André ter Stegen;90;88;85;88;90;43
+42999;Virgil van Dijk;90;77;60;70;72;90
+43627;Toni Kroos;90;75;82;92;83;72
+43665;Piqué;90;72;63;74;80;90
+43711;Sadio Mané;90;96;86;81;90;46
+43753;Hugo Lloris;90;91;86;70;93;66
+43851;Sergio Ramos;90;73;70;76;76;88
+43881;Sadio Mané;90;96;86;81;90;46
+43906;Kylian Mbappé;90;97;85;79;91;40
+13202;Pep Guardiola;90;78;65;88;81;88
+13215;Kenny Dalglish;90;87;90;79;89;42
+13238;Carlos Alberto Torres;90;90;63;80;83;87
+42806;Robert Lewandowski;90;78;89;77;86;42
+42967;Robert Lewandowski;90;78;89;75;87;42
+42996;Luka Modric;90;74;76;89;90;72
+42998;Mohamed Salah;90;93;86;81;89;45
+43609;Antoine Griezmann;90;82;88;86;90;58
+43654;Kylian Mbappé;90;97;86;80;91;40
+43704;Paulo Dybala;90;86;86;86;92;45
+43742;Thiago Silva;90;66;57;77;76;90
+43790;David Villa;90;90;89;79;92;46
+43854;Kalidou Koulibaly;90;73;29;55;70;90
+43905;Sergio Ramos;90;73;69;76;75;88
+43913;N'Golo Kanté;90;79;66;78;82;88
+43917;Kalidou Koulibaly;90;72;29;55;69;90
+43927;Alisson;90;86;85;86;90;53
+43950;Robert Lewandowski;90;78;88;75;86;42
+44026;Luis Suárez;90;77;90;81;86;53
+44068;Sergio Agüero;90;82;91;79;90;34
+44121;Hakim Ziyech;90;87;90;95;89;55
+78;Michael Laudrup;89;82;77;89;90;36
+80;Edwin van der Sar;89;87;86;83;90;47
+82;Gheorghe Hagi;89;85;87;89;89;40
+84;Alan Shearer;89;84;90;75;78;48
+239;De Gea;89;90;84;81;92;57
+343;Luis Suárez;89;73;89;80;84;51
+386;N'Golo Kanté;89;78;65;77;81;87
+471;Alisson;89;85;84;85;89;52
+594;Sergio Ramos;89;72;68;75;74;87
+43924;Harry Kane;90;71;92;80;82;48
+43931;Sergio Agüero;90;81;91;78;89;34
+44007;De Gea;90;92;86;82;93;58
+44060;N'Golo Kanté;90;80;66;80;82;88
+44092;David Luiz;90;83;76;83;82;90
+77;Ronaldinho;89;80;85;88;90;38
+79;Marco van Basten;89;83;91;72;86;35
+81;Lev Yashin;89;91;86;72;92;64
+83;Laurent Blanc;89;79;68;70;79;90
+146;Giorgio Chiellini;89;68;46;58;62;90
+294;Sergio Agüero;89;80;90;77;88;33
+353;Sergio Busquets;89;42;62;80;81;85
+418;Robert Lewandowski;89;77;87;74;85;41
+512;Harry Kane;89;70;91;79;81;47
+724;Kalidou Koulibaly;89;71;28;54;68;89
+854;Kylian Mbappé;89;96;84;78;90;39
+13111;Eusébio;89;95;91;82;90;43
+13113;Fernando Hierro Ruiz;89;71;66;75;70;90
+13115;Gary Lineker;89;89;90;70;84;38
+13117;Paul Scholes;89;71;86;89;81;64
+13119;Miroslav Klose;89;83;87;75;81;42
+13121;Johan Cruyff;89;92;87;85;92;40
+13123;Steven Gerrard;89;80;86;88;84;75
+13125;Gennaro Gattuso;89;73;65;72;73;91
+13127;Michael Ballack;89;78;87;88;82;78
+13217;John Barnes;89;90;87;85;91;45
+13224;Ian Rush;89;83;90;72;85;44
+13235;Didier Drogba;89;85;90;75;80;46
+42170;Manuel Neuer;89;88;88;92;89;57
+42892;Paulo Dybala;89;84;84;85;91;45
+896;Antoine Griezmann;89;81;86;84;89;57
+13112;Fabio Cannavaro;89;76;44;62;67;92
+13114;Ryan Giggs;89;84;80;90;88;47
+13116;Bobby Moore;89;66;60;81;75;91
+13118;Pavel Nedvěd;89;88;86;88;88;52
+13120;Sócrates;89;82;88;88;88;46
+13122;David Trezeguet;89;82;90;68;80;43
+13124;Sol Campbell;89;80;45;60;54;90
+13126;Roberto Baggio;89;82;83;90;90;41
+13211;Gianluca Zambrotta;89;90;72;84;85;88
+13220;Ian Wright;89;89;90;70;82;41
+13227;Hugo Sánchez;89;90;88;78;88;41
+13246;Kaká;89;85;82;87;90;43
+42183;Sadio Mané;89;95;85;79;89;45
+42908;Aubameyang;89;95;87;78;81;38
+43000;Giorgio Chiellini;89;68;46;58;62;90
+43002;Sergio Ramos;89;72;68;75;74;87
+43004;Robert Lewandowski;89;77;87;74;85;41
+43006;Kalidou Koulibaly;89;71;28;54;68;89
+43008;Alisson;89;85;84;85;89;52
+43010;Kylian Mbappé;89;96;84;78;90;39
+43629;Lorenzo Insigne;89;91;87;87;93;37
+43707;Samir Handanovic;89;90;87;71;90;54
+43774;Toni Kroos;89;46;83;91;82;71
+43850;Karim Benzema;89;79;86;83;88;42
+43858;Heung Min Son;89;90;89;85;89;44
+43870;Ángel Di María;89;90;87;86;91;50
+43912;Paulo Dybala;89;84;83;85;91;44
+43920;Aubameyang;89;95;86;76;81;38
+43930;Sadio Mané;89;95;84;78;89;45
+43001;Sergio Agüero;89;80;90;77;88;33
+43003;Luis Suárez;89;73;89;80;84;51
+43005;Sergio Busquets;89;42;62;80;81;85
+43007;Harry Kane;89;70;91;79;81;47
+43009;N'Golo Kanté;89;78;65;77;81;87
+43011;Antoine Griezmann;89;81;86;84;89;57
+43701;Heung Min Son;89;90;88;84;89;44
+43756;Jordi Alba;89;92;71;83;85;83
+43796;Keylor Navas;89;92;85;77;92;56
+43855;Dries Mertens;89;90;88;84;92;37
+43862;Raheem Sterling;89;94;81;80;90;46
+43891;Marco Reus;89;86;89;86;88;46
+43919;Marco Reus;89;86;89;85;88;46
+43926;Christian Eriksen;89;74;82;91;85;54
+43933;Ederson;89;87;83;94;89;65
+43935;David Silva;89;66;75;89;90;53
+43967;Edinson Cavani;89;77;88;73;81;56
+44111;Ciro Immobile;89;83;90;68;86;42
+85;Christian Vieri;88;82;88;70;80;41
+87;Marc Overmars;88;95;81;80;88;44
+89;Andriy Shevchenko;88;84;89;73;85;35
+91;Roberto Carlos;88;90;81;86;79;83
+93;Jari Litmanen;88;83;89;81;83;33
+95;Rui Manuel César Costa;88;82;80;87;86;47
+97;Michael Owen;88;91;86;66;87;31
+99;Emmanuel Petit;88;75;77;81;77;86
+101;Juan Sebastián Verón;88;74;83;88;83;75
+103;Patrick Kluivert;88;86;84;79;82;39
+189;Marco Reus;88;85;88;84;87;45
+295;David Silva;88;65;74;88;89;52
+43938;Raheem Sterling;89;94;80;79;90;46
+44062;Christian Eriksen;89;75;83;91;86;54
+44144;Samir Handanovic;89;89;87;71;91;54
+86;Alessandro Nesta;88;70;40;63;65;90
+88;Marcel Desailly;88;83;54;69;67;88
+90;Rio Ferdinand;88;80;48;65;64;89
+92;Lothar Matthäus;88;82;82;87;77;90
+94;Paolo Maldini;88;87;54;73;65;90
+96;Robert Pirès;88;88;80;86;86;40
+98;Javier Zanetti;88;83;61;85;82;87
+100;Frank Rijkaard;88;78;73;79;78;88
+102;Patrick Vieira;88;85;75;80;84;86
+147;Paulo Dybala;88;83;82;84;90;43
+242;Paul Pogba;88;74;81;86;85;66
+302;Ederson;88;86;82;93;88;64
+308;Raheem Sterling;88;93;79;78;89;45
+420;Manuel Neuer;88;87;87;91;87;56
+514;Christian Eriksen;88;73;81;90;84;53
+562;Aubameyang;88;94;85;75;80;37
+596;Toni Kroos;88;45;80;90;81;70
+894;Diego Godín;88;60;48;64;63;89
+13128;George Best;88;91;88;81;92;59
+13130;Jens Lehmann;88;88;87;83;87;58
+13132;Roy Keane;88;74;72;84;78;85
+13134;Clarence Seedorf;88;82;85;87;86;70
+13136;Raúl González Blanco;88;86;86;78;88;45
+13243;Andrea Pirlo;88;70;79;91;90;66
+42185;Karim Benzema;88;77;84;81;87;41
+42835;Thiago Silva;88;63;55;74;74;89
+42951;Keylor Navas;88;91;83;76;91;55
+355;Piqué;88;56;61;72;69;88
+466;Sadio Mané;88;94;83;77;88;44
+515;Hugo Lloris;88;89;82;68;91;64
+595;Thibaut Courtois;88;85;89;72;87;48
+849;Edinson Cavani;88;75;86;72;79;55
+1320;Samir Handanovic;88;88;85;69;89;53
+13129;Luís Figo;88;88;84;87;88;42
+13131;Franco Baresi;88;71;47;70;72;89
+13133;Hidetoshi Nakata;88;85;84;86;87;62
+13135;Frank Lampard;88;66;88;87;83;70
+13206;Ronald Koeman;88;77;86;86;79;87
+42184;Dries Mertens;88;89;85;82;91;36
+42810;Coutinho;88;81;84;88;92;54
+42947;Bastian Schweinsteiger;88;71;84;90;85;82
+42982;Thomas Müller;88;85;85;81;88;57
+42984;Zlatan Ibrahimovic;88;85;90;80;88;36
+43012;Piqué;88;56;61;72;69;88
+43014;Manuel Neuer;88;87;87;91;87;56
+43016;David Silva;88;65;74;88;89;52
+43018;Diego Godín;88;60;48;64;63;89
+43020;Marco Reus;88;85;88;84;87;45
+43022;Thibaut Courtois;88;85;89;72;87;48
+43024;Sadio Mané;88;94;83;77;88;44
+43026;Paulo Dybala;88;83;82;84;90;43
+43630;Roberto Firmino;88;80;84;82;89;80
+43786;Paulinho;88;77;85;82;84;82
+43821;Mario Balotelli;88;87;88;78;90;30
+43825;Ciro Immobile;88;82;89;66;84;41
+43908;Thiago Silva;88;63;55;73;74;88
+43929;Jan Vertonghen;88;64;64;75;74;88
+42985;James Rodríguez;88;80;88;88;88;52
+43013;Samir Handanovic;88;88;85;69;89;53
+43015;Hugo Lloris;88;89;82;68;91;64
+43017;Edinson Cavani;88;75;86;72;79;55
+43019;Toni Kroos;88;45;80;90;81;70
+43021;Christian Eriksen;88;73;81;90;84;53
+43023;Raheem Sterling;88;93;79;78;89;45
+43025;Ederson;88;86;82;93;88;64
+43600;Mats Hummels;88;52;59;78;75;90
+43749;Marquinhos;88;78;43;76;75;88
+43806;Heung Min Son;88;89;88;82;88;43
+43822;Cesc Fàbregas;88;78;84;92;88;70
+43907;Karim Benzema;88;77;83;81;87;40
+43921;Mats Hummels;88;52;59;77;74;90
+43932;Heung Min Son;88;89;87;81;88;43
+43941;Aymeric Laporte;88;65;51;72;70;89
+43948;Jordi Alba;88;91;70;82;84;80
+43987;Coutinho;88;81;84;88;92;54
+44118;Marcelo;88;86;78;86;91;82
+104;Dennis Bergkamp;87;76;85;85;87;39
+106;Filippo Inzaghi;87;81;88;67;82;35
+108;Gennaro Gattuso;87;74;62;68;70;87
+110;Anderson Luís de Souza;87;80;77;87;87;45
+112;Alan Shearer;87;76;88;76;76;53
+114;Javier Zanetti;87;88;59;82;80;83
+116;Henrik Larsson;87;85;84;77;82;44
+304;Fernandinho;87;66;74;79;79;84
+318;Aymeric Laporte;87;64;50;71;69;88
+421;Mats Hummels;87;51;58;76;73;89
+517;Jan Vertonghen;87;63;63;74;73;87
+43944;Bernardo Silva;88;82;77;84;93;52
+43972;Jan Vertonghen;88;65;64;75;74;89
+44117;Trent Alexander-Arnold;88;85;71;90;84;85
+44158;Riyad Mahrez;88;88;85;85;92;42
+105;Hernán Crespo;87;86;88;71;86;40
+107;Alessandro Del Piero;87;88;88;84;89;40
+109;Edwin van der Sar;87;86;83;84;88;49
+111;Thierry Henry;87;93;82;79;87;43
+113;Jay-Jay Okocha;87;83;79;84;91;41
+115;Luis Hernández;87;91;87;73;87;47
+117;Marcel Desailly;87;84;47;61;61;85
+314;Bernardo Silva;87;81;76;83;92;51
+356;Jordi Alba;87;90;69;81;83;79
+428;Thiago;87;69;74;85;90;69
+522;Toby Alderweireld;87;64;55;72;67;88
+525;Heung Min Son;87;88;86;80;87;42
+606;Keylor Navas;87;90;81;75;90;54
+720;Lorenzo Insigne;87;89;79;85;91;35
+852;Thiago Silva;87;62;54;72;73;87
+13140;Fabio Cannavaro;87;82;42;60;68;90
+13143;Ryan Giggs;87;91;78;84;87;40
+13146;Bobby Moore;87;70;60;78;73;90
+13150;Hristo Stoichkov;87;87;88;85;87;44
+13153;Sócrates;87;80;86;87;87;47
+13156;Rivaldo;87;86;87;85;88;42
+13203;Guardiola;87;78;65;82;79;85
+13212;Gianluca Zambrotta;87;87;70;82;82;86
+13218;John Barnes;87;88;83;82;87;40
+13225;Ian Rush;87;86;88;70;83;41
+13236;Didier Drogba;87;88;87;71;80;43
+605;Casemiro;87;62;72;75;72;85
+615;Karim Benzema;87;76;82;80;86;39
+723;Dries Mertens;87;88;83;80;90;35
+13138;Miroslav Klose;87;77;85;73;78;41
+13141;Gianfranco Zola;87;88;87;85;90;41
+13144;Gary Lineker;87;84;88;70;81;40
+13147;Paul Scholes;87;68;83;90;78;66
+13151;Emilio Butragueño;87;90;86;75;89;40
+13155;Claude Makélélé;87;78;47;77;77;86
+13157;Sol Campbell;87;82;44;58;55;87
+13209;Michael Essien;87;77;71;80;80;86
+13216;Kenny Dalglish;87;87;88;74;88;40
+13221;Ian Wright;87;85;89;69;82;40
+13228;Hugo Sánchez;87;88;88;78;85;43
+13239;Carlos Alberto Torres;87;82;62;80;80;88
+13247;Kaká;87;88;80;83;90;41
+42801;Keylor Navas;87;90;81;75;90;54
+42845;Coutinho;87;80;82;86;91;53
+42893;Ciro Immobile;87;81;87;65;82;40
+42978;Dele Alli;87;74;83;81;84;81
+43027;Fernandinho;87;66;74;79;79;84
+43029;Karim Benzema;87;76;82;80;86;39
+43031;Dries Mertens;87;88;83;80;90;35
+43033;Toby Alderweireld;87;64;55;72;67;88
+43035;Thiago;87;69;74;85;90;69
+43037;Heung Min Son;87;88;86;80;87;42
+43039;Aymeric Laporte;87;64;50;71;69;88
+43604;Parejo;87;42;82;90;80;71
+43631;Mesut Özil;87;82;82;88;86;26
+43667;Javier Mascherano;87;75;65;84;77;86
+42785;Keylor Navas;87;90;81;75;90;54
+42813;Romelu Lukaku;87;80;86;75;76;37
+42888;Marco Verratti;87;66;61;86;91;81
+42959;Miralem Pjanic;87;69;71;88;86;76
+42986;Edin Džeko;87;83;86;73;85;48
+43028;Thiago Silva;87;62;54;72;73;87
+43030;Jan Vertonghen;87;63;63;74;73;87
+43032;Mats Hummels;87;51;58;76;73;89
+43034;Jordi Alba;87;90;69;81;83;79
+43036;Lorenzo Insigne;87;89;79;85;91;35
+43038;Casemiro;87;62;72;75;72;85
+43040;Bernardo Silva;87;81;76;83;92;51
+43613;Ángel Di María;87;85;82;85;88;49
+43635;Iago Aspas;87;86;86;87;87;37
+43668;Matteo Politano;87;91;85;84;88;46
+43696;Jadon Sancho;87;90;79;81;92;40
+43703;Kingsley Coman;87;94;82;82;89;32
+43706;Allan;87;78;76;81;86;87
+43747;Alejandro Gómez;87;92;82;84;89;41
+43751;Ciro Immobile;87;82;86;65;82;40
+43759;Memphis Depay;87;89;85;85;86;36
+43762;Serge Gnabry;87;91;86;80;88;46
+43809;Riyad Mahrez;87;87;83;83;91;41
+43883;Luis Alberto;87;75;79;90;87;52
+43911;Marco Verratti;87;66;61;85;91;80
+43934;Roberto Firmino;87;78;83;81;88;62
+43952;Joshua Kimmich;87;73;70;87;85;80
+43997;Kai Havertz;87;88;82;84;87;47
+44001;Michy Batshuayi;87;83;85;75;85;36
+44027;Romelu Lukaku;87;80;86;75;76;37
+43702;Riyad Mahrez;87;87;84;83;91;41
+43705;Ousmane Dembélé;87;95;85;84;89;40
+43720;Wojciech Szczesny;87;87;84;74;89;50
+43748;Gareth Bale;87;93;89;86;85;60
+43758;Leon Goretzka;87;84;83;83;84;79
+43761;Juan Mata;87;84;82;88;89;47
+43807;Joshua Kimmich;87;73;70;88;85;81
+43867;Hakim Ziyech;87;83;78;90;86;52
+43909;Marquinhos;87;75;42;74;72;87
+43914;Leonardo Bonucci;87;59;59;70;72;88
+43951;Milan Škriniar;87;70;42;60;67;88
+43960;Nabil Fekir;87;82;86;84;91;36
+44000;Timo Werner;87;95;87;75;86;38
+44002;Ivan Perišic;87;89;84;82;86;65
+44028;Roberto Firmino;87;79;84;81;89;62
+44035;Josip Ilicic;87;75;88;87;88;46
+44102;Alejandro Gómez;87;91;82;85;88;41
+44122;Houssem Aouar;87;86;82;88;91;77
+118;Andriy Shevchenko;86;88;90;67;85;32
+120;Michael Owen;86;84;86;67;85;35
+122;Roberto Carlos;86;92;80;79;81;81
+124;Frank Rijkaard;86;70;67;77;75;86
+126;Marc Overmars;86;88;78;79;87;48
+128;Patrick Kluivert;86;87;83;77;81;37
+159;Miralem Pjanic;86;68;68;87;85;75
+305;Leroy Sané;86;95;81;79;86;38
+354;Ivan Rakitic;86;62;81;86;81;74
+430;Thomas Müller;86;72;83;79;78;55
+464;Roberto Firmino;86;77;82;80;87;61
+598;Isco;86;71;77;83;90;59
+44096;Raphaël Varane;87;85;49;65;67;87
+44120;Felipe Anderson;87;92;84;84;91;58
+44151;Bruno Fernandes;87;82;87;89;87;67
+119;Ruud Gullit;86;80;80;86;82;83
+121;Patrick Vieira;86;81;75;80;79;86
+123;Peter Schmeichel;86;85;81;82;89;52
+125;Henrik Larsson;86;86;86;74;84;46
+127;Carles Puyol Saforcada;86;76;45;68;58;88
+157;Leonardo Bonucci;86;58;58;69;71;87
+171;Wojciech Szczesny;86;85;82;73;88;49
+351;Coutinho;86;79;80;84;90;52
+357;Samuel Umtiti;86;69;63;69;70;86
+434;Joshua Kimmich;86;72;69;86;84;79
+565;Alexandre Lacazette;86;82;85;75;86;40
+856;Marco Verratti;86;65;60;84;90;79
+859;Marquinhos;86;74;41;73;71;86
+932;Ciro Immobile;86;80;85;63;81;39
+1743;Parejo;86;41;80;88;79;70
+13164;Juan Sebastián Verón;86;70;80;85;81;74
+13168;Christian Vieri;86;84;86;70;80;37
+13172;Pavel Nedvěd;86;90;82;84;87;46
+13175;David Trezeguet;86;84;86;66;77;40
+13178;Steven Gerrard;86;70;85;88;78;80
+13181;Michael Ballack;86;72;86;86;78;80
+13219;John Barnes;86;82;83;86;87;61
+42179;Zlatan Ibrahimovic;86;57;89;79;80;35
+42811;Frenkie de Jong;86;80;66;86;89;77
+42822;Wissam Ben Yedder;86;87;87;81;88;43
+42877;Riyad Mahrez;86;86;81;82;90;40
+42907;Łukasz Piszczek;86;83;74;83;83;86
+860;Ángel Di María;86;84;79;84;87;48
+1330;Milan Škriniar;86;69;41;59;66;87
+13160;Hidetoshi Nakata;86;82;81;85;85;64
+13166;Fernando Hierro Ruiz;86;75;65;73;71;87
+13170;Ruud van Nistelrooy;86;78;86;70;78;40
+13173;Roy Keane;86;66;70;81;77;88
+13177;Frank Lampard;86;75;86;85;82;70
+13180;Raúl González Blanco;86;77;85;80;86;50
+13213;Gianluca Zambrotta;86;91;72;82;84;82
+42178;Frenkie de Jong;86;80;66;86;89;77
+42807;Josef Martínez;86;93;85;72;85;29
+42815;Matthijs de Ligt;86;68;61;67;70;85
+42867;Kai Havertz;86;86;81;82;85;46
+42889;Alejandro Gómez;86;90;80;83;87;40
+42946;Carlos Vela;86;83;87;82;88;34
+42961;Ilkay Gündogan;86;68;77;86;86;74
+42973;Amine Harit;86;90;76;83;88;52
+42980;Alessio Romagnoli;86;81;42;82;68;87
+42988;Hulk;86;88;87;86;82;49
+43042;Miralem Pjanic;86;68;68;87;85;75
+43044;Leonardo Bonucci;86;58;58;69;71;87
+43046;Parejo;86;41;80;88;79;70
+43048;Isco;86;71;77;83;90;59
+43050;Roberto Firmino;86;77;82;80;87;61
+43052;Marquinhos;86;74;41;73;71;86
+43054;Leroy Sané;86;95;81;79;86;38
+43056;Coutinho;86;79;80;84;90;52
+43626;Julian Draxler;86;79;81;83;88;71
+43634;Dimitri Payet;86;85;80;84;84;40
+43648;Fabinho;86;69;70;79;79;87
+42963;Georginio Wijnaldum;86;79;76;80;86;79
+42974;James Milner;86;70;80;84;80;80
+42983;William Carvalho;86;75;84;79;77;81
+43041;Ivan Rakitic;86;62;81;86;81;74
+43043;Ángel Di María;86;84;79;84;87;48
+43045;Wojciech Szczesny;86;85;82;73;88;49
+43047;Thomas Müller;86;72;83;79;78;55
+43049;Marco Verratti;86;65;60;84;90;79
+43051;Samuel Umtiti;86;69;63;69;70;86
+43053;Joshua Kimmich;86;72;69;86;84;79
+43055;Milan Škriniar;86;69;41;59;66;87
+43599;Stéphane Ruffier;86;84;86;77;85;49
+43628;Kévin Gameiro;86;87;81;76;87;45
+43639;Sebastian Giovinco;86;83;86;85;89;29
+43652;Saúl;86;71;80;81;82;79
+43656;Josip Ilicic;86;72;87;86;86;45
+43674;Kyle Walker;86;92;67;78;79;83
+43679;Hakim Ziyech;86;81;76;88;85;51
+43687;Romelu Lukaku;86;77;84;74;73;36
+43697;Éder Militão;86;83;56;75;77;86
+43715;Gelson Martins;86;97;80;78;89;50
+43718;Willian;86;89;84;85;89;53
+43727;Radja Nainggolan;86;75;84;82;86;86
+43743;Karl Toko-Ekambi;86;86;86;76;86;34
+43752;Lucas Torreira;86;79;74;82;84;85
+43757;Anthony Martial;86;92;84;78;88;44
+43770;Gerard Moreno;86;81;85;73;83;50
+43803;Steven Bergwijn;86;92;81;82;89;43
+43811;Gonzalo Higuaín;86;64;87;73;81;32
+43823;Leon Bailey;86;93;85;77;89;35
+43672;Yann Sommer;86;82;87;83;89;52
+43677;Matthijs de Ligt;86;68;61;67;70;85
+43681;Luis Alberto;86;73;78;88;86;51
+43694;Jamie Vardy;86;92;85;69;80;60
+43713;Danilo;86;80;75;80;80;82
+43717;Jesús Corona;86;88;78;81;92;67
+43724;Andrew Robertson;86;86;63;79;80;82
+43729;Alex Telles;86;87;75;86;83;82
+43750;Idrissa Gueye;86;76;63;75;82;88
+43754;Thomas Partey;86;78;79;81;81;83
+43764;Gianluigi Donnarumma;86;91;82;75;91;50
+43798;Stefan de Vrij;86;68;43;64;70;89
+43808;Canales;86;80;81;86;83;53
+43813;Iago Aspas;86;80;86;78;86;36
+43829;Dele Alli;86;74;84;81;85;72
+43830;Nabil Fekir;86;80;85;83;90;35
+43863;Lautaro Martínez;86;86;85;75;87;45
+43868;Nicolás Tagliafico;86;84;64;76;80;85
+43892;Memphis Depay;86;89;83;84;85;34
+43915;Matthijs de Ligt;86;68;59;67;70;84
+43936;Andrew Robertson;86;86;63;78;80;81
+43940;José María Giménez;86;70;46;53;57;87
+43953;Hakim Ziyech;86;81;76;87;84;51
+43968;Benjamin Lecomte;86;86;83;82;88;45
+43983;Jadon Sancho;86;89;76;80;92;37
+44010;Marcos Acuña;86;82;80;87;89;83
+44019;Aleksandar Kolarov;86;75;79;85;82;87
+44024;Allan;86;77;74;80;85;86
+44033;Wissam Ben Yedder;86;87;87;81;88;43
+44055;Trent Alexander-Arnold;86;83;68;86;80;82
+43834;Carvajal;86;82;49;79;82;83
+43866;Bruno Fernandes;86;80;85;88;86;66
+43876;Raphaël Varane;86;84;47;64;65;86
+43901;Axel Witsel;86;74;75;81;83;84
+43918;Alex Sandro;86;84;66;78;81;83
+43939;Fabinho;86;69;70;79;78;86
+43949;Frenkie de Jong;86;80;65;85;89;77
+43961;Douglas Costa;86;95;75;81;92;45
+43978;Pizzi;86;79;80;86;83;65
+44003;Santi Cazorla;86;70;84;89;88;70
+44016;Arturo Vidal;86;70;82;82;83;87
+44022;Timo Werner;86;94;86;74;85;37
+44025;Serge Gnabry;86;91;85;79;87;45
+44049;Moi Gómez;86;80;85;87;85;60
+44077;Gen Shoji;86;85;46;70;75;84
+44094;Salvatore Sirigu;86;86;83;78;85;52
+44148;Azpilicueta;86;73;57;80;75;87
+129;Sol Campbell;85;84;43;56;56;85
+131;Luis Hernández;85;93;84;72;84;49
+133;Jari Litmanen;85;76;85;84;80;33
+135;Robert Pirès;85;72;80;86;82;44
+137;Rui Manuel César Costa;85;84;76;84;83;42
+139;Rio Ferdinand;85;84;48;65;70;84
+141;Emmanuel Petit;85;80;73;80;78;86
+155;Alex Sandro;85;83;65;77;80;82
+196;Axel Witsel;85;73;74;80;80;83
+423;James Rodríguez;85;55;86;87;86;50
+441;Niklas Süle;85;72;42;55;51;86
+489;Andrew Robertson;85;85;62;77;79;80
+609;Raphaël Varane;85;83;45;62;64;85
+44146;Nicolas Nkoulou;86;76;50;70;76;87
+44167;Fabian Schär;86;78;85;80;78;85
+130;Anderson Luís de Souza;85;78;78;87;85;45
+132;Jay-Jay Okocha;85;88;80;79;92;37
+134;Gheorghe Hagi;85;86;84;85;87;37
+136;Hernán Crespo;85;86;86;70;84;37
+138;Filippo Inzaghi;85;74;86;65;79;35
+140;Michael Laudrup;85;87;74;84;89;35
+142;Laurent Blanc;85;83;82;75;84;79
+166;Blaise Matuidi;85;75;66;76;78;83
+244;Romelu Lukaku;85;75;82;73;72;35
+437;David Alaba;85;83;73;81;80;80
+470;Fabinho;85;68;69;78;77;85
+603;Marcelo;85;81;74;83;89;77
+614;Carvajal;85;81;47;78;81;82
+668;Gianluigi Donnarumma;85;90;80;74;90;49
+731;Allan;85;75;71;78;84;85
+903;Koke;85;68;75;86;82;74
+906;José María Giménez;85;69;45;52;56;86
+933;Sergej Milinkovic-Savic;85;67;79;80;82;77
+2042;Hakim Ziyech;85;80;75;86;83;50
+2060;Frenkie de Jong;85;79;64;84;88;76
+4071;Zlatan Ibrahimovic;85;56;88;77;78;34
+13190;Jens Lehmann;85;87;83;80;87;59
+13193;Claude Makélélé;85;86;64;80;82;70
+13196;Gennaro Gattuso;85;73;66;76;74;90
+13207;Ronald Koeman;85;67;84;87;76;86
+13222;Ian Wright;85;91;86;66;79;40
+19967;Lopes;85;87;80;75;89;63
+20660;Gonzalo Higuaín;85;63;85;71;80;31
+692;Bruno Fernandes;85;77;83;87;85;65
+805;Kostas Manolas;85;82;25;42;62;86
+904;Saúl;85;70;78;79;81;78
+918;Rodrigo;85;67;68;77;78;82
+1322;Mauro Icardi;85;75;84;61;77;36
+2048;Matthijs de Ligt;85;67;58;66;69;83
+2773;Alejandro Gómez;85;89;78;81;86;39
+13188;Gianfranco Zola;85;90;85;82;91;41
+13191;Hidetoshi Nakata;85;84;80;84;85;60
+13194;Clarence Seedorf;85;83;81;84;84;71
+13204;Guardiola;85;75;65;82;76;85
+13210;Michael Essien;85;83;72;75;78;85
+19718;Gareth Bale;85;91;87;82;82;58
+20293;Clément Lenglet;85;75;45;68;66;86
+24253;Péter Gulácsi;85;84;86;81;86;43
+24254;Roman Bürki;85;86;80;74;89;48
+24256;Neto;85;86;81;79;82;54
+42168;Lucas Vázquez;85;86;80;84;85;61
+42803;Mauro Icardi;85;75;84;61;77;36
+42812;Mauro Icardi;85;75;84;61;77;36
+42819;Nicolas Pépé;85;93;84;77;88;35
+42861;Daley Blind;85;56;66;83;79;85
+42884;Lukáš Hrádecký;85;87;81;71;88;42
+42948;Kasper Schmeichel;85;84;80;81;90;60
+42975;Jesús Navas;85;89;82;79;85;71
+42977;Guerreiro;85;89;79;84;88;68
+43057;Alejandro Gómez;85;89;78;81;86;39
+43059;Blaise Matuidi;85;75;66;76;78;83
+43061;Marcelo;85;81;74;83;89;77
+43063;Péter Gulácsi;85;84;86;81;86;43
+24255;Iago Aspas;85;78;84;77;85;35
+42167;Wilfried Zaha;85;93;80;76;89;29
+42169;Corentin Tolisso;85;72;80;82;81;79
+42805;Mauro Icardi;85;75;84;61;77;36
+42814;Rodrigo;85;67;68;77;78;82
+42836;Trent Alexander-Arnold;85;82;65;84;79;81
+42883;Theo Walcott;85;96;81;80;88;42
+42891;Luiz Frello Filho Jorge;85;57;64;87;83;73
+42953;Lucas Digne;85;80;71;82;80;83
+42976;Marcel Sabitzer;85;76;82;88;82;83
+42981;Nicolás Otamendi;85;80;59;64;71;85
+43058;Gonzalo Higuaín;85;63;85;71;80;31
+43060;Gareth Bale;85;91;87;82;82;58
+43062;Axel Witsel;85;73;74;80;80;83
+43064;Roman Bürki;85;86;80;74;89;48
+43065;Alex Sandro;85;83;65;77;80;82
+43067;Koke;85;68;75;86;82;74
+43069;David Alaba;85;83;73;81;80;80
+43071;Lopes;85;87;80;75;89;63
+43073;Raphaël Varane;85;83;45;62;64;85
+43075;Saúl;85;70;78;79;81;78
+43077;Fabinho;85;68;69;78;77;85
+43079;Andrew Robertson;85;85;62;77;79;80
+43081;Clément Lenglet;85;75;45;68;66;86
+43083;Frenkie de Jong;85;79;64;84;88;76
+43085;Matthijs de Ligt;85;67;58;66;69;83
+43614;Wissam Ben Yedder;85;86;85;79;87;41
+43637;Adama;85;98;80;78;87;42
+43675;Grimaldo;85;87;65;82;86;79
+43699;Daniel Wass;85;78;84;86;84;82
+43066;Kostas Manolas;85;82;25;42;62;86
+43068;Neto;85;86;81;79;82;54
+43070;James Rodríguez;85;55;86;87;86;50
+43072;Allan;85;75;71;78;84;85
+43074;Carvajal;85;81;47;78;81;82
+43076;Hakim Ziyech;85;80;75;86;83;50
+43078;Niklas Süle;85;72;42;55;51;86
+43080;José María Giménez;85;69;45;52;56;86
+43082;Romelu Lukaku;85;75;82;73;72;35
+43084;Rodrigo;85;67;68;77;78;82
+43611;Radja Nainggolan;85;74;82;80;85;85
+43632;Kieran Trippier;85;86;75;83;78;80
+43657;Carlos Vela;85;82;85;81;85;33
+43688;Timo Werner;85;93;84;71;84;36
+43708;Raúl Jiménez;85;83;84;79;81;52
+43712;Joe Gomez;85;85;35;73;75;84
+43767;Nicolás Otamendi;85;59;59;65;62;86
+43805;Anderson Talisca;85;79;85;82;84;58
+43820;Morales;85;94;83;78;90;59
+43865;Corentin Tolisso;85;72;81;81;81;80
+43885;Charles Aránguiz;85;65;73;85;83;77
+43942;Georginio Wijnaldum;85;78;74;79;86;77
+43956;Kai Havertz;85;85;79;80;85;45
+43974;Raúl Albiol;85;50;43;63;66;89
+44006;Ante Rebic;85;93;85;77;85;44
+44012;Davinson Sánchez;85;76;47;59;69;85
+44018;Rui Patrício;85;86;83;79;84;57
+44031;Éver Banega;85;64;76;87;84;80
+44075;Jean-Christophe Bahebeck;85;91;86;79;93;38
+44123;Takehiro Tomiyasu;85;82;42;76;82;84
+43714;Alex Oxlade-Chamberlain;85;85;80;83;87;70
+43789;Leandro Trossard;85;89;85;84;88;35
+43818;Matías Aguirregaray;85;90;69;80;85;84
+43835;Jasper Cillessen;85;84;85;80;85;54
+43871;Juan Cuadrado;85;93;74;79;89;71
+43923;Jadon Sancho;85;89;73;78;91;37
+43954;Dušan Tadic;85;69;81;85;86;42
+43964;Marcus Rashford;85;94;84;78;87;47
+43998;Gonçalo Guedes;85;92;83;80;85;38
+44011;Ferland Mendy;85;93;70;80;84;80
+44015;Farid Boulaya;85;88;82;83;90;37
+44020;Vincent Kompany;85;53;55;68;67;86
+44069;Anthony Martial;85;91;85;77;89;42
+44103;Nicolas Pépé;85;93;84;77;88;35
+44124;Martín Cáceres;85;83;60;78;76;85
+44145;Martin Dúbravka;85;84;86;86;86;52
+44160;Fabio Quagliarella;85;72;91;77;83;32
+44169;Juan Camilo Hernández;85;95;86;77;85;48
+310;Riyad Mahrez;84;84;78;79;89;38
+14612;Jadon Sancho;84;88;72;77;90;36
+19697;Salvatore Sirigu;84;84;80;76;82;50
+19726;Lucas Leiva;84;62;66;76;78;83
+19759;Edin Džeko;84;60;84;71;75;46
+19819;Ilkay Gündogan;84;66;74;84;84;72
+20079;Edin Višca;84;88;79;79;84;47
+20109;Felipe;84;64;41;57;61;84
+20197;Kingsley Coman;84;92;76;77;86;29
+20301;Lucas Hernández;84;81;54;70;71;83
+20411;Ousmane Dembélé;84;93;79;80;87;36
+24236;Pepe;84;67;51;57;61;85
+44152;Marcus Rashford;85;94;85;75;85;47
+44168;Córdoba;85;91;82;85;93;65
+177;João Cancelo;84;90;65;80;84;78
+317;Kyle Walker;84;91;63;76;77;81
+19681;João Moutinho;84;56;75;85;82;71
+19713;Sokratis;84;72;51;52;61;84
+19729;Mesut Özil;84;70;72;86;84;24
+19765;Arturo Vidal;84;67;79;80;79;85
+20017;Memphis Depay;84;87;80;81;83;32
+20101;Kepa Arrizabalaga;84;84;82;86;85;34
+20185;Alex Telles;84;85;72;84;81;80
+20258;Nabil Fekir;84;78;82;81;88;33
+20405;Arthur;84;69;71;81;86;73
+20667;Mario Mandžukic;84;68;80;71;76;65
+24237;Stéphane Ruffier;84;82;84;75;82;47
+24238;Marek Hamšik;84;69;77;83;83;72
+24240;Yann Sommer;84;79;85;81;87;50
+24242;Ivan Perišic;84;84;80;78;82;62
+24244;Azpilicueta;84;70;55;77;73;85
+24246;Paulinho;84;72;81;77;80;78
+24248;Leon Goretzka;84;81;77;80;81;75
+24250;Julian Brandt;84;82;78;81;85;40
+24252;Jirí Pavlenka;84;86;79;70;88;36
+24881;Bernd Leno;84;83;81;78;85;55
+24883;Stefan de Vrij;84;66;41;62;68;86
+24885;Felipe Anderson;84;89;77;79;88;55
+27241;Luis Alberto;84;71;76;84;85;49
+41404;Teemu Pukki;84;84;84;74;80;36
+42174;Laurent Koscielny;84;63;46;68;68;85
+42180;Gerard Moreno;84;79;83;70;81;48
+24239;Javi Martinez;84;48;55;69;64;86
+24241;Georginio Wijnaldum;84;77;73;78;85;76
+24243;Jérôme Boateng;84;66;50;72;66;84
+24245;José Callejón;84;89;78;75;83;47
+24247;Serge Gnabry;84;90;82;75;85;43
+24249;Dele Alli;84;72;81;79;82;71
+24251;Kai Havertz;84;84;78;79;84;44
+24880;Douglas Costa;84;94;73;79;91;43
+24882;Pizzi;84;77;77;84;81;63
+24884;Dušan Tadic;84;68;80;84;85;41
+26604;Canales;84;78;79;83;81;51
+27474;Josip Ilicic;84;70;84;84;84;43
+42173;Nicolás Tagliafico;84;82;61;73;78;83
+42176;Thomas Delaney;84;79;75;77;77;85
+42816;Lucas Hernández;84;81;54;70;71;83
+42817;Julian Brandt;84;82;78;81;85;40
+42824;Thorgan Hazard;84;84;80;83;88;48
+42838;Aleksandar Kolarov;84;71;77;83;79;84
+42846;Marcelo Brozovic;84;67;78;82;83;79
+42860;Thomas Strakosha;84;86;80;77;89;45
+42871;Wilfred Ndidi;84;74;68;70;76;86
+42875;Duván Zapata;84;73;83;59;77;40
+42885;Nélson Semedo;84;93;59;72;83;80
+42894;Alassane Pléa;84;79;85;80;81;42
+42987;Bernard;84;89;83;80;88;40
+43087;Georginio Wijnaldum;84;77;73;78;85;76
+43089;Mario Mandžukic;84;68;80;71;76;65
+43091;Jérôme Boateng;84;66;50;72;66;84
+43093;José Callejón;84;89;78;75;83;47
+43095;Kyle Walker;84;91;63;76;77;81
+42823;Harry Maguire;84;52;54;69;75;84
+42832;Benjamin Lecomte;84;84;80;80;86;43
+42840;Willi Orban;84;55;41;57;59;85
+42849;Willian José;84;71;85;70;77;42
+42868;Santi Cazorla;84;58;76;87;86;67
+42874;Oyarzabal;84;77;84;82;84;41
+42882;Quincy Promes;84;92;82;82;84;42
+42890;Steven Bergwijn;84;90;78;79;88;41
+42955;Marcos Acuña;84;80;77;85;87;81
+43086;Javi Martinez;84;48;55;69;64;86
+43088;Ivan Perišic;84;84;80;78;82;62
+43090;Arturo Vidal;84;67;79;80;79;85
+43092;Azpilicueta;84;70;55;77;73;85
+43094;Ilkay Gündogan;84;66;74;84;84;72
+43096;Douglas Costa;84;94;73;79;91;43
+43097;Pizzi;84;77;77;84;81;63
+43099;Dušan Tadic;84;68;80;84;85;41
+43101;Memphis Depay;84;87;80;81;83;32
+43103;Serge Gnabry;84;90;82;75;85;43
+43105;Felipe;84;64;41;57;61;84
+43107;João Cancelo;84;90;65;80;84;78
+43109;Kingsley Coman;84;92;76;77;86;29
+43111;Ousmane Dembélé;84;93;79;80;87;36
+43113;Kai Havertz;84;84;78;79;84;44
+43115;Lucas Hernández;84;81;54;70;71;83
+43606;Taison;84;93;82;78;88;49
+43612;Lautaro Martínez;84;84;82;71;85;43
+43633;Diego Laxalt;84;90;83;85;80;64
+43638;Jeremiah St. Juste;84;84;60;66;75;83
+43649;Karim Bellarabi;84;93;78;78;86;36
+43098;Stefan de Vrij;84;66;41;62;68;86
+43100;Josip Ilicic;84;70;84;84;84;43
+43102;Riyad Mahrez;84;84;78;79;89;38
+43104;Kepa Arrizabalaga;84;84;82;86;85;34
+43106;Leon Goretzka;84;81;77;80;81;75
+43108;Dele Alli;84;72;81;79;82;71
+43110;Arthur;84;69;71;81;86;73
+43112;Jadon Sancho;84;88;72;77;90;36
+43114;Julian Brandt;84;82;78;81;85;40
+43601;Marcos Alonso;84;69;77;82;80;83
+43607;Abdoulaye Doucouré;84;72;78;76;80;83
+43625;Jean-Paul Boëtius;84;90;81;81;84;50
+43636;Gary Medel;84;70;80;85;75;82
+43643;Nicolas Nkoulou;84;73;48;67;74;85
+43663;Eder Citadin Martins;84;89;85;77;87;33
+43664;Johnathan Aparecido Silva;84;86;83;73;86;43
+43682;Tammy Abraham;84;82;84;65;79;38
+43684;Filip Kostic;84;89;79;81;83;68
+43700;David Neres;84;88;78;78;89;40
+43716;Kevin Mbabu;84;94;60;80;82;81
+43734;Dimitri Payet;84;75;81;85;84;41
+43755;Angeliño;84;89;71;84;85;80
+43763;André Onana;84;86;83;88;85;65
+43778;John McGinn;84;82;79;81;83;79
+43788;Luciano Acosta;84;91;82;83;87;52
+43792;Rodrigo Battaglia;84;83;81;80;86;83
+43794;Dalbert;84;95;65;78;84;83
+43799;Emil Forsberg;84;72;73;84;85;35
+43819;Youssoufou Niakaté;84;97;84;73;83;30
+43826;Marko Arnautovic;84;82;83;79;83;48
+43669;Myziane Maolida;84;92;80;78;88;31
+43683;Muniain;84;82;77;79;88;52
+43685;Thorgan Hazard;84;84;80;83;88;48
+43709;Juan Jesus;84;82;41;65;72;84
+43731;Ricardo Pereira;84;88;66;79;83;82
+43736;Donny van de Beek;84;75;82;80;82;74
+43760;Ibrahima Konaté;84;83;32;60;78;85
+43773;Thomas Partey;84;75;75;79;80;81
+43787;Héctor Villalba;84;97;84;78;86;51
+43791;Shoya Nakajima;84;93;84;80;87;42
+43793;Sandro Tonali;84;85;75;83;84;83
+43795;Pacheco;84;84;81;72;85;48
+43801;Quincy Promes;84;92;82;82;84;42
+43824;Joshua King;84;90;84;74;86;40
+43827;Aleksandar Mitrovic;84;69;85;63;77;32
+43848;Tolgay Arslan;84;84;77;84;87;81
+43869;Erling Håland;84;88;86;75;83;45
+43900;Moses Simon;84;95;81;75;87;48
+43945;Trent Alexander-Arnold;84;81;63;83;79;79
+43958;Dodi Lukebakio;84;93;84;76;87;37
+43962;Thiago Mendes;84;80;75;82;83;81
+43965;Diego Carlos;84;80;48;67;75;83
+43970;Theo Hernández;84;94;71;75;82;79
+43993;James Forrest;84;97;80;78;85;57
+43999;Gabriel Jesus;84;88;84;75;89;41
+44009;Moussa Sissoko;84;83;74;83;82;82
+44014;Hirving Lozano;84;95;81;78;85;43
+44029;Oliver Baumann;84;84;83;72;87;51
+44032;Philipp Max;84;88;61;85;83;78
+44047;Juan Foyth;84;82;55;78;82;83
+43849;Guilherme;84;93;83;83;84;53
+43884;Jamie Vardy;84;90;84;67;77;57
+43916;Jean-Philippe Gbamin;84;83;65;78;79;83
+43947;Jordan Henderson;84;65;71;84;78;79
+43959;Kévin Malcuit;84;90;68;80;85;81
+43963;Jeison Murillo;84;79;44;65;72;85
+43966;Iñaki Williams;84;96;83;76;82;43
+43991;Youcef Atal;84;93;76;81;87;82
+43996;Yannick Bolasie;84;92;84;84;88;36
+44008;Jérôme Roussillon;84;91;67;79;82;82
+44013;Renato Sanches;84;83;81;81;83;78
+44017;Xherdan Shaqiri;84;83;80;83;87;47
+44030;James Tarkowski;84;66;50;72;70;85
+44034;Willian;84;87;81;83;88;51
+44048;Max Meyer;84;81;77;86;88;76
+44050;Kalvin Phillips;84;77;80;86;84;83
+44057;Harry Maguire;84;52;54;69;75;84
+44063;Ayoze Pérez;84;83;82;80;86;60
+44076;Riechedly Bazoer;84;87;81;85;90;64
+44105;James Maddison;84;80;81;87;84;44
+44112;Gabriel Jesus;84;87;83;75;88;41
+44155;Youssef El Arabi;84;79;87;75;88;45
+527;Davinson Sánchez;83;74;45;57;67;83
+1203;Falcao;83;65;82;69;77;43
+19622;Nicolas Pépé;83;91;81;75;85;33
+19669;Raúl Albiol;83;48;41;61;64;86
+19701;Carlos Vela;83;80;82;78;84;31
+19781;Jordan Henderson;83;64;70;83;77;78
+19930;Kevin Kampl;83;76;67;80;85;63
+19990;Lucas;83;92;79;76;87;42
+44051;Sean Maguire;84;98;84;78;88;48
+44059;Matt Doherty;84;81;71;80;80;81
+44065;Bafétimbi Gomis;84;74;88;70;81;38
+44098;Jesús Corona;84;86;73;79;91;70
+44109;Jack Grealish;84;82;77;83;86;47
+44154;Sebastian Giovinco;84;84;83;83;90;30
+388;Luiz Frello Filho Jorge;83;55;63;84;81;70
+865;Julian Draxler;83;77;79;81;86;55
+19438;Luka Jovic;83;77;82;68;81;29
+19649;Vincent Kompany;83;50;53;65;64;84
+19679;Fabio Quagliarella;83;69;89;75;80;30
+19780;Max Kruse;83;66;83;83;83;45
+19910;Idrissa Gueye;83;73;59;70;78;85
+19956;Pablo Sarabia;83;75;76;82;84;57
+20030;John Stones;83;68;36;70;72;84

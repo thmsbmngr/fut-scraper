@@ -1,12 +1,16 @@
 import signal
 import sys
 import requests
+import time
 from bs4 import BeautifulSoup
 
 #Handling ctrl+c press
 def signal_handler(sig, frame):
+    print("Ctrl+C pressed")
     print("Exiting application...")
-    
+    soup.clear()
+    page.close()
+    file.close()
     sys.exit(0)
 
 signal.signal(signal.SIGINT, signal_handler)
@@ -38,8 +42,10 @@ for page_num in range(1, pages + 1):
 
     print("Scraping " + str(page_num) + " page")
     for row in range(0, len(table)):
+        if row % 20 == 0:
+            time.sleep(1)
         player_data = []
-
+        
         data = table[row].findChildren(name="td")
 
         # Getting name and id of the player-card the a element from futbin
@@ -66,7 +72,7 @@ for page_num in range(1, pages + 1):
         player_string = ";".join(player_data)
         file.write(player_string + "\n")
 
-    page.close()
     soup.clear()
+    page.close()
 
 file.close()
