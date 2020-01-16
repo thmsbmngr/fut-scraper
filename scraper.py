@@ -32,7 +32,7 @@ file.write(csv_header)
 
 for page_num in range(1, pages + 1):
     if page_num % 20 == 0:
-        time.sleep(10)
+        time.sleep(20)
     
     page_url = URL + str(page_num)
     page = requests.get(page_url, headers=headers)
@@ -70,7 +70,7 @@ for page_num in range(1, pages + 1):
             player_data.append(stat)
 
     
-        player_string = ";".join(player_data)
+        player_string = ",".join(player_data)
         file.write(player_string + "\n")
 
     soup.clear()
